@@ -1,4 +1,4 @@
-=== Add featured image Column to the Posts Screen ===
+=== Wp-ImageColumn ===
 Contributors: Md. Sajed Ahmed Khan
 Donate link: 
 Tags: post,posts, admin, images,feature image
@@ -8,11 +8,7 @@ Stable tag: 3.2.1
 License: GPLv2 or later
 License URI: 
 
-
-
- 
-
-
+Add featured image Column to the Posts Screen
 
 == Description ==
 This plugin is used for add a custom column field to post screen like post title,post category etc.This plugin is create a new column 
