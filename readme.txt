@@ -22,11 +22,11 @@ column on the manage Posts screen.
 
 == Installation ==
 
-1.Upload the  plugin from the `/wp-content/plugins/` directory.
+1. Upload the  plugin from the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3.Then  go to the Add New/Edit Post page and set the feature image by Featured Image box at bottom right side of Post page.
-4.After set the feature image go to the manage Posts page of wp-admin.
-5.And you can see a new column named "Featured Image" and the feature image of the particular post.
+3. Then  go to the Add New/Edit Post page and set the feature image by Featured Image box at bottom right side of Post page.
+4. After set the feature image go to the manage Posts page of wp-admin.
+5. And you can see a new column named "Featured Image" and the feature image of the particular post.
 
  
  == Frequently Asked Questions ==
