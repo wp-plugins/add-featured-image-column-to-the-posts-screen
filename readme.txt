@@ -6,9 +6,9 @@ Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: 3.2.1
 License: GPLv2 or later
-License URI:  
+License URI: 
 
-Add featured image Column to the Posts Screen
+Add featured image Column to the WP Posts Screen
 
 == Description ==
 This plugin is used for add a custom column field to post screen like post title,post category etc.This plugin is create a new column 

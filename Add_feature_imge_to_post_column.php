@@ -8,7 +8,7 @@ Version: 1.0
 Author: Md. Sajed Ahmed
 Author URI: 
 License: GPLv2 or later
-Text Domain: Wp-ImageColumn222
+Text Domain: Add featured image Column to the Posts Screen
 */ 
 
 
