@@ -8,7 +8,7 @@ Version: 1.0
 Author: Md. Sajed Ahmed
 Author URI: 
 License: GPLv2 or later
-Text Domain: Wp-ImageColumn
+Text Domain: Wp-ImageColumn222
 */ 
 
 
