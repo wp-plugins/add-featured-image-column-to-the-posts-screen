@@ -9,7 +9,7 @@ Author: Md. Sajed Ahmed
 Author URI: 
 License: GPLv2 or later
 Text Domain: Wp-ImageColumn
-*/
+*/ 
 
 
   
